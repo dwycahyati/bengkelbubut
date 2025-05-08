@@ -3,8 +3,8 @@ import { Metadata } from "next";
 import ClientKontak from "./ClientKontak";
 
 export const metadata: Metadata = {
-  title: "Beranda | Ells WO",
-  description: "Landing page resmi Ells WO.",
+  title: "Kontak | Budi Bubut",
+  description: "Landing page resmi Budi Bubut.",
 };
 
 export default function Home() {
