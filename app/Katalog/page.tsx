@@ -1,6 +1,6 @@
 // app/page.tsx
 import { Metadata } from "next";
-import ClientHome from "./ClientHome";
+import ClientKatalog from "./ClientKatalog";
 
 export const metadata: Metadata = {
   title: "Beranda | Ells WO",
@@ -8,5 +8,5 @@ export const metadata: Metadata = {
 };
 
 export default function Home() {
-  return <ClientHome />;
+  return <ClientKatalog />;
 }
